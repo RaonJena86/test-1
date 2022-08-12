@@ -1,4 +1,1 @@
-a
-b
-c
-d
+Delete Useless Content
